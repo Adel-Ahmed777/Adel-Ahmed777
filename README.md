@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on CTFs and cyber security challenges
 
-- 😄 Pronouns: he/him
+😄
 
 
 
