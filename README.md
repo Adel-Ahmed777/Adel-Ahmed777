@@ -109,3 +109,5 @@ Your support means the world 🌐 to me. <br>
 [![Watering Hole Attack Cyber Security](https://ytcards.demolab.com/?id=VvJYh0p2R-A&title=Watering+Hole+Attack+Cyber+Security&lang=en&timestamp=1700753914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Watering Hole Attack Cyber Security")](https://www.youtube.com/watch?v=VvJYh0p2R-A)
 <!-- END YOUTUBE-CARDS -->
 
+<a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_lSWI1T2h41mku_ghPx08A?color=%23E05D44&label=SUBSCRIBE TO WHITEBOARD SECURITY&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
