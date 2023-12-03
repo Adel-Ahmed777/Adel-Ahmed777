@@ -1,0 +1,17 @@
+name: Latest Medium Blogs
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-Medium:
+    name: Update this repo's README with latest blogs from Medium
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM-BLOGS-LIST"
+          feed_list: "https://medium.com/@whiteboardsec007"
