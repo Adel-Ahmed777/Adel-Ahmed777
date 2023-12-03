@@ -53,9 +53,6 @@ Your support means the world 🌐 to me. <br>
 -------
 ### Languages and Tools 🛠 
 
-<br/>
-
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>
@@ -65,6 +62,7 @@ Your support means the world 🌐 to me. <br>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg"/>
+<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg"/> <br>
 
 <br />
