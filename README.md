@@ -110,4 +110,4 @@ Your support means the world 🌐 to me. <br>
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_lSWI1T2h41mku_ghPx08A?color=%23E05D44&label=CLICK HERE TO SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_lSWI1T2h41mku_ghPx08A?color=%23E05D44&label=SUBSCRIBE TO WHITEBOARD SECURITY&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
