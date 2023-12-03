@@ -46,10 +46,12 @@ Your support means the world 🌐 to me. <br>
 
 ### ✍️ My Blogs 
 
-[![Medium Blog Badge](https://img.shields.io/badge/Medium%20Blog%20Page-black)](https://medium.com/@whiteboardsec007)<img align="left" alt="Adel-Ahmed777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+[![Medium Blog Badge](https://img.shields.io/badge/Medium%20Blog%20-black)](https://medium.com/@whiteboardsec007) <br>
+<img align="left" alt="Adel-Ahmed777 | Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> <br>
 
 
-[![Blogger Blog Badge](https://img.shields.io/badge/Blogger%20blog%20Page-orange)](https://whiteboardsecurity.blogspot.com/)<img align="left" alt="Adel-Ahmed777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+[![Blogger Blog Badge](https://img.shields.io/badge/Blogger%20blog%20-orange)](https://whiteboardsecurity.blogspot.com/) <br>
+<img align="left" alt="Adel-Ahmed777 | Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" /> <br>
 
 
 -------
