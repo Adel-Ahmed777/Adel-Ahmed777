@@ -78,17 +78,6 @@ Your support means the world 🌐 to me. <br>
 <br>
 
 ----
-<br>
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-<br>
-
-
-----
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ2YXVraGt5NXM5MjRzenlyZ3Y0em15OWZxbGJkaWJzb3pyZDl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8lJP6k6bYJQMZKsuJv/giphy.gif" width="25%"> <em>
   <br>
@@ -106,3 +95,9 @@ Your support means the world 🌐 to me. <br>
    <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
 </p>
+
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
