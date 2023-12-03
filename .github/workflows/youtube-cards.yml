@@ -13,6 +13,7 @@ jobs:
         with:
           channel_id: UC_lSWI1T2h41mku_ghPx08A
           comment_tag_name: YOUTUBE-CARDS
+          show_duration: true
 
 
           
