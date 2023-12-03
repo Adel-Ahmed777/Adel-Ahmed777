@@ -51,12 +51,6 @@ Your support means the world 🌐 to me. <br>
 
 [![Blogger Blog Badge](https://img.shields.io/badge/Blogger%20blog%20Page-orange)](https://whiteboardsecurity.blogspot.com/)<img align="left" alt="Adel-Ahmed777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 
----
-### ✍️ My Medium Blog 
-<!-- MEDIUM-BLOGS-LIST:START -->
-<!-- MEDIUM-BLOGS-LIST:END -->
-
----
 
 -------
 ### ⚙️ Languages and Tools  
