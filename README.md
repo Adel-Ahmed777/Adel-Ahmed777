@@ -1,7 +1,5 @@
 # Hi there 👋, I am **`Adel`** 😄
 
-
-
 **`Engineer | Cyber security | Creator`** 
 
 Hey there, cyber friends! I'm Adel 👋, the guy behind [Whiteboard Security](https://www.youtube.com/@WhiteboardSecurity/featured) <br>
@@ -52,7 +50,7 @@ Your support means the world 🌐 to me. <br>
 
 
 -------
-### Languages and Tools 🛠 
+### Languages and Tools ⚙️ 
 
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/>
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg"/>
@@ -70,32 +68,24 @@ Your support means the world 🌐 to me. <br>
 
 ------
 
-<a href="https://github.com/Adel-Ahmed777">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Ahmed777&theme=graywhite">
-</a>
+### 📈 Stats
+
+
 <a href="https://github.com/Adel-Ahmed777">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adel-Ahmed777&show_icons=true&theme=graywhite&line_height=30" alt="Adel's github stats"/>
 </a>
 <br>
 
-----
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ2YXVraGt5NXM5MjRzenlyZ3Y0em15OWZxbGJkaWJzb3pyZDl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8lJP6k6bYJQMZKsuJv/giphy.gif" width="25%"> <em>
-  <br>
-  <b>I like to network and make friends.</b> <br>
-  😊</em>
-  
-</p>
+<a href="https://github.com/Adel-Ahmed777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Ahmed777&theme=graywhite">
+</a> 
+<br>
 
------
+--------
 
 
-<p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
-  <br/>
-   <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
-</p>
+
+
 
 
 ### 📺 Latest YouTube Videos
@@ -111,3 +101,19 @@ Your support means the world 🌐 to me. <br>
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_lSWI1T2h41mku_ghPx08A?color=%23E05D44&label=SUBSCRIBE TO WHITEBOARD SECURITY&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ2YXVraGt5NXM5MjRzenlyZ3Y0em15OWZxbGJkaWJzb3pyZDl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8lJP6k6bYJQMZKsuJv/giphy.gif" width="25%"> <em>
+  <br>
+  <b>I alaways like to network and make friends. Feel free to reach out on LinkedIn and Follow my YouTube Journey. Stay safe and I will see you in the next one</b> <br>
+  😊</em>
+  
+</p>
+
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown
+  <br/>
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
+</p>
