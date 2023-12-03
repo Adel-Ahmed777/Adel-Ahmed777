@@ -2,12 +2,6 @@
 
 
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-
 **`Engineer | Cyber security | Creator`** 
 
 Hey there, cyber friends! I'm Adel 👋, the guy behind [Whiteboard Security](https://www.youtube.com/@WhiteboardSecurity/featured) <br>
@@ -104,4 +98,8 @@ Your support means the world 🌐 to me. <br>
 </p>
 
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
