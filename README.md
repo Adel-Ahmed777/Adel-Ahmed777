@@ -67,7 +67,6 @@ Your support means the world 🌐 to me. <br>
 
 <br />
 
-
 ------
 
 <a href="https://github.com/Adel-Ahmed777">
@@ -76,6 +75,17 @@ Your support means the world 🌐 to me. <br>
 <a href="https://github.com/Adel-Ahmed777">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adel-Ahmed777&show_icons=true&theme=graywhite&line_height=30" alt="Adel's github stats"/>
 </a>
+<br>
+
+----
+<br>
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<br>
 
 
 ----
