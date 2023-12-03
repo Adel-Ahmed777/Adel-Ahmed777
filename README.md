@@ -1,6 +1,6 @@
 # Hi there 👋, I am **`Adel`** 😄
 
-![Dhyey's youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC_lSWI1T2h41mku_ghPx08A&layout=extruded&theme=dark_pink)
+
 
 ### 📺 Latest YouTube Videos
 
