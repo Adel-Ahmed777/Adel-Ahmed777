@@ -31,7 +31,7 @@ Education: Graduated from Western Sydney University with a Bachelor of cyber sec
 <br>
 Passion: Food 🍔 🥞 - Music 🎵 - Tech 👨🏻‍💻 - Movies 🎥 <br>
 <br>
-Fun fact 🦩: I am an Outdoor Explorer. Walking is my therapy. I like to go for walks whenever I feel like it so I can clear my mind. <br>
+Fun fact 🦩: I am a Movie Lover. I can watch my favourite movies multiple times and never be bored. <br>
 <br>
 Your support means the world 🌐 to me. <br>
 <br>
