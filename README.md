@@ -23,6 +23,16 @@ The vision of this channel is to spread awareness and safety in the online space
 <br>
 Whiteboard Security reserve the right to modify this Disclaimer at any time without notice.<br>
 <br>
+👨🏻‍🍳 I'm excited to share a bit about myself! <br>
+<br>
+Home: Australia 🇦🇺 <br>
+<br>
+Education: Graduated from Western Sydney University with a Bachelor of cyber security and behaviour (Distinction) <br>
+<br>
+Passion: Food 🍔 🥞 - Music 🎵 - Tech 👨🏻‍💻 - Movies 🎥 <br>
+<br>
+Fun fact 🦩: I am an Outdoor Explorer. Walking is my therapy. I like to go for walks whenever I feel like it so I can clear my mind. <br>
+<br>
 Your support means the world 🌐 to me. <br>
 <br>
 
