@@ -29,7 +29,7 @@ Home: Australia 🇦🇺 <br>
 <br>
 Education: Graduated from Western Sydney University with a Bachelor of cyber security and behaviour (Distinction) <br>
 <br>
-Passion: Food 🍔 🥞 - Music 🎵 - Tech 👨🏻‍💻 - Movies 🎥 <br>
+Passion: Food 🍔 🥞 - Music 🎵 - Tech 👨🏻‍💻 - Movies - Gaming 🎮 🕹️ 🎥 <br>
 <br>
 Fun fact 🦩: I am a Movie Lover. I can watch my favourite movies multiple times and never be bored. <br>
 <br>
