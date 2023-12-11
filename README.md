@@ -25,7 +25,7 @@ Whiteboard Security reserve the right to modify this Disclaimer at any time with
 <br>
 👨🏻‍🍳 I'm excited to share a bit about myself! <br>
 <br>
-Home: Australia 🇦🇺 <br>
+Home: Australia 🇦🇺 🙏 ❤️ <br>
 <br>
 Education: Graduated from Western Sydney University with a Bachelor of cyber security and behaviour (Distinction) <br>
 <br>
@@ -121,7 +121,7 @@ Your support means the world 🌐 to me. <br>
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZ2YXVraGt5NXM5MjRzenlyZ3Y0em15OWZxbGJkaWJzb3pyZDl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8lJP6k6bYJQMZKsuJv/giphy.gif" width="25%"> <em>
   <br>
-  <b>I alaways like to network and make friends. Feel free to reach out on LinkedIn and Follow my YouTube Journey. Stay safe and I will see you in the next one</b> <br>
+  <b>I always like to network and make friends. Feel free to reach out on LinkedIn and Follow my YouTube Journey. Stay safe and I will see you in the next one</b> <br>
   😊</em>
   
 </p>
