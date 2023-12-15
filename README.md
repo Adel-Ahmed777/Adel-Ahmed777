@@ -83,6 +83,32 @@ Your support means the world 🌐 to me. <br>
 
 ------
 
+### 📕 List of my IT certifications:
+
+•Cyber Threat Management from CISCO academy skills for all platform | Dec 2023 <br>
+•Digital Forensics Essentials (DFE) from EC-Council | Nov 2023 <br>
+•Network Defense Essentials (NDE) from EC-Council | Sep 2023 <br>
+•Engaging Stakeholders for Success from Cisco Networking Academy | Aug 2023 <br>
+•Network Support and Security from Cisco skills for all | Aug 2023 <br>
+•Confluence Fundamentals Badge from Atlassian | Jul 2023 <br>
+•Jira Fundamentals Badge from Atlassian | Jul 2023 <br>
+•What is Splunk? From Splunk | May 2023 <br>
+•ISO/IEC 27001 Information Security Associate from SkillFront | Apr 2023 <br>
+•Certified in Cybersecurity candidate from (ISC)² | Sep 2022 <br>
+•Fortinet Network Security Expert Level 1: Certified Associate from Fortinet | Apr 2021 <br>
+•ASIO Analyst Virtual Experience Program Participant from Prosple | Mar 2021 <br>
+•Introduction to Packet Tracer from Cisco | Mar 2021 <br>
+•Cyber @ ANZ Program Virtual Experience Participant from ANZ | Jan 2021 <br>
+•Responsive Web Design from freeCodeCamp | Jan 2021 <br>
+•Introduction to programming using R from DataCamp | Aug 2020 <br>
+•Certificate of completion in the ASD Cyber Exp Program from LifeJourney | Feb 2020 <br>
+•AWS Academy Graduate - AWS Academy Cloud Foundations from Amazon Web Services (AWS) | Jan 2020 <br>
+
+
+
+
+------
+
 ### 📈 Stats
 
 
