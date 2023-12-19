@@ -132,12 +132,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Fileless Malware Attacks In Cyber Security](https://ytcards.demolab.com/?id=F0RpOUxe1Z8&title=Fileless+Malware+Attacks+In+Cyber+Security&lang=en&timestamp=1702998116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fileless Malware Attacks In Cyber Security")](https://www.youtube.com/watch?v=F0RpOUxe1Z8)
 [![How Does Brute Force Attack Work](https://ytcards.demolab.com/?id=_KZuBMBZdeU&title=How+Does+Brute+Force+Attack+Work&lang=en&timestamp=1702812730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Does Brute Force Attack Work")](https://www.youtube.com/watch?v=_KZuBMBZdeU)
 [![Ai Powered Cyber Attacks](https://ytcards.demolab.com/?id=TFXOKlIsE1g&title=Ai+Powered+Cyber+Attacks&lang=en&timestamp=1702735308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ai Powered Cyber Attacks")](https://www.youtube.com/watch?v=TFXOKlIsE1g)
 [![What Is Eavesdropping In Cyber Security](https://ytcards.demolab.com/?id=YMs75oKUSOc&title=What+Is+Eavesdropping+In+Cyber+Security&lang=en&timestamp=1702606045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Eavesdropping In Cyber Security")](https://www.youtube.com/watch?v=YMs75oKUSOc)
 [![Evil Twin Attack In Cyber Security](https://ytcards.demolab.com/?id=FCplxKNpxJ8&title=Evil+Twin+Attack+In+Cyber+Security&lang=en&timestamp=1702376493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evil Twin Attack In Cyber Security")](https://www.youtube.com/watch?v=FCplxKNpxJ8)
 [![What Is Malware Attack In Cyber Security](https://ytcards.demolab.com/?id=YNaeCKcA8Pc&title=What+Is+Malware+Attack+In+Cyber+Security&lang=en&timestamp=1702174916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Malware Attack In Cyber Security")](https://www.youtube.com/watch?v=YNaeCKcA8Pc)
-[![Pretexting Cyber Attack](https://ytcards.demolab.com/?id=RJq_rnadSX0&title=Pretexting+Cyber+Attack&lang=en&timestamp=1701351235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pretexting Cyber Attack")](https://www.youtube.com/watch?v=RJq_rnadSX0)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
