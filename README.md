@@ -11,7 +11,7 @@ Hey there, cyber friends! I'm Adel 👋, the guy behind [Whiteboard Security](ht
   <img src="https://github.com/Adel-Ahmed777/WhiteboardSecurity/blob/main/WhiteboardSecurity_Images/Whiteboard%20Security%20Logo.jpg" width="280" height="280">
 </p>
 <br>
-I understand and acknowledge that cyber security is a massive field, so I will be doing my best to contribute to the cyber security space in a positive and unique way. <br>
+Cyber security is a massive field, so I will be doing my best to contribute to the cyber security space in a positive and unique way. <br>
 <br>
 I will share what I have learned, what I am learning, and what I will learn. <br>
 <br>
