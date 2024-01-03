@@ -23,7 +23,7 @@ The vision of this channel is to spread awareness and safety in the online space
 <br>
 Whiteboard Security reserve the right to modify this Disclaimer at any time without notice.<br>
 <br>
-👨🏻‍🍳 I'm excited to share a bit about myself! <br>
+**`👨🏻‍🍳 I'm excited to share a bit about myself!`**  <br>
 <br>
 Home: Australia 🇦🇺 🙏 ❤️ <br>
 <br>
