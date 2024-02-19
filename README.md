@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Ip Spoofing Explained](https://ytcards.demolab.com/?id=zPIZ3hVhBAQ&title=Ip+Spoofing+Explained&lang=en&timestamp=1708348361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ip Spoofing Explained")](https://www.youtube.com/watch?v=zPIZ3hVhBAQ)
 [![Ssrf](https://ytcards.demolab.com/?id=tRKSCf954W0&title=Ssrf&lang=en&timestamp=1708221729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ssrf")](https://www.youtube.com/watch?v=tRKSCf954W0)
 [![Email Spoofing In Cyber Security](https://ytcards.demolab.com/?id=u0rYFl691D8&title=Email+Spoofing+In+Cyber+Security&lang=en&timestamp=1707641431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Email Spoofing In Cyber Security")](https://www.youtube.com/watch?v=u0rYFl691D8)
 [![Ransomware Attack Explained In Cyber Security](https://ytcards.demolab.com/?id=utTGBXW_wpQ&title=Ransomware+Attack+Explained+In+Cyber+Security&lang=en&timestamp=1707027563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ransomware Attack Explained In Cyber Security")](https://www.youtube.com/watch?v=utTGBXW_wpQ)
 [![Buffer Overflow Attack Explained #shorts](https://ytcards.demolab.com/?id=tyuskRgw7iQ&title=Buffer+Overflow+Attack+Explained+%23shorts&lang=en&timestamp=1706788192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Buffer Overflow Attack Explained #shorts")](https://www.youtube.com/watch?v=tyuskRgw7iQ)
 [![Brute Force Attack Explained In Cyber Security #shorts](https://ytcards.demolab.com/?id=7ra2b26CgPU&title=Brute+Force+Attack+Explained+In+Cyber+Security+%23shorts&lang=en&timestamp=1706619959&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Brute Force Attack Explained In Cyber Security #shorts")](https://www.youtube.com/watch?v=7ra2b26CgPU)
-[![Phishing Meaning #shorts](https://ytcards.demolab.com/?id=Bex9C1ruSRI&title=Phishing+Meaning+%23shorts&lang=en&timestamp=1706427178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Phishing Meaning #shorts")](https://www.youtube.com/watch?v=Bex9C1ruSRI)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
