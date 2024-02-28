@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Social Engineering In Cyber Security](https://ytcards.demolab.com/?id=YBor3crb5OY&title=Social+Engineering+In+Cyber+Security&lang=en&timestamp=1709124239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Social Engineering In Cyber Security")](https://www.youtube.com/watch?v=YBor3crb5OY)
 [![What Is Spoofing In Cyber Security](https://ytcards.demolab.com/?id=r_Hccaxh_Tg&title=What+Is+Spoofing+In+Cyber+Security&lang=en&timestamp=1708915368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Spoofing In Cyber Security")](https://www.youtube.com/watch?v=r_Hccaxh_Tg)
 [![Arp Spoofing Attack Explained](https://ytcards.demolab.com/?id=6yM4C-clFxk&title=Arp+Spoofing+Attack+Explained&lang=en&timestamp=1708772821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Arp Spoofing Attack Explained")](https://www.youtube.com/watch?v=6yM4C-clFxk)
 [![Ip Spoofing Explained](https://ytcards.demolab.com/?id=zPIZ3hVhBAQ&title=Ip+Spoofing+Explained&lang=en&timestamp=1708348361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ip Spoofing Explained")](https://www.youtube.com/watch?v=zPIZ3hVhBAQ)
 [![Ssrf Vulnerability In Cyber Security](https://ytcards.demolab.com/?id=tRKSCf954W0&title=Ssrf+Vulnerability+In+Cyber+Security&lang=en&timestamp=1708221729&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ssrf Vulnerability In Cyber Security")](https://www.youtube.com/watch?v=tRKSCf954W0)
 [![Email Spoofing In Cyber Security](https://ytcards.demolab.com/?id=u0rYFl691D8&title=Email+Spoofing+In+Cyber+Security&lang=en&timestamp=1707641431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Email Spoofing In Cyber Security")](https://www.youtube.com/watch?v=u0rYFl691D8)
-[![Ransomware Attack Explained In Cyber Security](https://ytcards.demolab.com/?id=utTGBXW_wpQ&title=Ransomware+Attack+Explained+In+Cyber+Security&lang=en&timestamp=1707027563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ransomware Attack Explained In Cyber Security")](https://www.youtube.com/watch?v=utTGBXW_wpQ)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
