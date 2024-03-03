@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Logic Bomb In Computer Security](https://ytcards.demolab.com/?id=I0pIKm9PfXI&title=Logic+Bomb+In+Computer+Security&lang=en&timestamp=1709436501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Logic Bomb In Computer Security")](https://www.youtube.com/watch?v=I0pIKm9PfXI)
 [![What Does A Firewall Do](https://ytcards.demolab.com/?id=bi1505c0a-M&title=What+Does+A+Firewall+Do&lang=en&timestamp=1709365140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Does A Firewall Do")](https://www.youtube.com/watch?v=bi1505c0a-M)
 [![Password Attacks In Cyber Security](https://ytcards.demolab.com/?id=vU1KIVNUjnc&title=Password+Attacks+In+Cyber+Security&lang=en&timestamp=1709279989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Password Attacks In Cyber Security")](https://www.youtube.com/watch?v=vU1KIVNUjnc)
 [![Social Engineering In Cyber Security](https://ytcards.demolab.com/?id=YBor3crb5OY&title=Social+Engineering+In+Cyber+Security&lang=en&timestamp=1709124239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Social Engineering In Cyber Security")](https://www.youtube.com/watch?v=YBor3crb5OY)
 [![What Is Spoofing In Cyber Security](https://ytcards.demolab.com/?id=r_Hccaxh_Tg&title=What+Is+Spoofing+In+Cyber+Security&lang=en&timestamp=1708915368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Spoofing In Cyber Security")](https://www.youtube.com/watch?v=r_Hccaxh_Tg)
 [![Arp Spoofing Attack Explained](https://ytcards.demolab.com/?id=6yM4C-clFxk&title=Arp+Spoofing+Attack+Explained&lang=en&timestamp=1708772821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Arp Spoofing Attack Explained")](https://www.youtube.com/watch?v=6yM4C-clFxk)
-[![Ip Spoofing Explained](https://ytcards.demolab.com/?id=zPIZ3hVhBAQ&title=Ip+Spoofing+Explained&lang=en&timestamp=1708348361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ip Spoofing Explained")](https://www.youtube.com/watch?v=zPIZ3hVhBAQ)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
