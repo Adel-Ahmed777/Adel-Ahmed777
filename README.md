@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Password Attacks Explained In Cyber Security](https://ytcards.demolab.com/?id=FHZh5oPuRV8&title=Password+Attacks+Explained+In+Cyber+Security&lang=en&timestamp=1709896792&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Password Attacks Explained In Cyber Security")](https://www.youtube.com/watch?v=FHZh5oPuRV8)
 [![Keylogger Explained](https://ytcards.demolab.com/?id=pgfGMSKZKjQ&title=Keylogger+Explained&lang=en&timestamp=1709791333&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Keylogger Explained")](https://www.youtube.com/watch?v=pgfGMSKZKjQ)
 [![Rainbow Table Attack Explained In Cyber Security](https://ytcards.demolab.com/?id=QEqRpoP1K0s&title=Rainbow+Table+Attack+Explained+In+Cyber+Security&lang=en&timestamp=1709721096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rainbow Table Attack Explained In Cyber Security")](https://www.youtube.com/watch?v=QEqRpoP1K0s)
 [![Logic Bomb In Computer Security](https://ytcards.demolab.com/?id=I0pIKm9PfXI&title=Logic+Bomb+In+Computer+Security&lang=en&timestamp=1709436501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Logic Bomb In Computer Security")](https://www.youtube.com/watch?v=I0pIKm9PfXI)
 [![What Does A Firewall Do](https://ytcards.demolab.com/?id=bi1505c0a-M&title=What+Does+A+Firewall+Do&lang=en&timestamp=1709365140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Does A Firewall Do")](https://www.youtube.com/watch?v=bi1505c0a-M)
 [![Password Attacks In Cyber Security](https://ytcards.demolab.com/?id=vU1KIVNUjnc&title=Password+Attacks+In+Cyber+Security&lang=en&timestamp=1709279989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Password Attacks In Cyber Security")](https://www.youtube.com/watch?v=vU1KIVNUjnc)
-[![Types Of Social Engineering Attacks](https://ytcards.demolab.com/?id=YBor3crb5OY&title=Types+Of+Social+Engineering+Attacks&lang=en&timestamp=1709124239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Types Of Social Engineering Attacks")](https://www.youtube.com/watch?v=YBor3crb5OY)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
