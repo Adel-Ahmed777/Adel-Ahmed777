@@ -134,12 +134,7 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Telnet Vs Ssh](https://ytcards.demolab.com/?id=nlJmujZrmlE&title=Telnet+Vs+Ssh&lang=en&timestamp=1711180076&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Telnet Vs Ssh")](https://www.youtube.com/watch?v=nlJmujZrmlE)
-[![Authorization Vs Authentication Difference](https://ytcards.demolab.com/?id=FXFBYCtLV0Y&title=Authorization+Vs+Authentication+Difference&lang=en&timestamp=1711093487&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Authorization Vs Authentication Difference")](https://www.youtube.com/watch?v=FXFBYCtLV0Y)
-[![How Hackers Bypass Two Factor Authentication](https://ytcards.demolab.com/?id=klcBQUlnCzg&title=How+Hackers+Bypass+Two+Factor+Authentication&lang=en&timestamp=1711008022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Hackers Bypass Two Factor Authentication")](https://www.youtube.com/watch?v=klcBQUlnCzg)
-[![Zero Day Attack Explained](https://ytcards.demolab.com/?id=mKkgsMiw0wM&title=Zero+Day+Attack+Explained&lang=en&timestamp=1710650974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zero Day Attack Explained")](https://www.youtube.com/watch?v=mKkgsMiw0wM)
-[![Bell Lapadula Model](https://ytcards.demolab.com/?id=U29tNHQXnN8&title=Bell+Lapadula+Model&lang=en&timestamp=1710399695&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bell Lapadula Model")](https://www.youtube.com/watch?v=U29tNHQXnN8)
-[![On Path Attack](https://ytcards.demolab.com/?id=RdQpIfq880U&title=On+Path+Attack&lang=en&timestamp=1710140718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "On Path Attack")](https://www.youtube.com/watch?v=RdQpIfq880U)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
