@@ -134,7 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![How Hackers Steal Your Data Without You Noticing](https://ytcards.demolab.com/?id=D6YnaQBv1eM&title=How+Hackers+Steal+Your+Data+Without+You+Noticing&lang=en&timestamp=1714219705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Hackers Steal Your Data Without You Noticing")](https://www.youtube.com/watch?v=D6YnaQBv1eM)
+[![What Is Ssl Certificate In Cyber Security](https://ytcards.demolab.com/?id=8LgZwn68794&title=What+Is+Ssl+Certificate+In+Cyber+Security&lang=en&timestamp=1714034480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Ssl Certificate In Cyber Security")](https://www.youtube.com/watch?v=8LgZwn68794)
+[![Risk Management In Cyber Security](https://ytcards.demolab.com/?id=BIlBrIrXGaU&title=Risk+Management+In+Cyber+Security&lang=en&timestamp=1713355247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Risk Management In Cyber Security")](https://www.youtube.com/watch?v=BIlBrIrXGaU)
+[![Replay Attack In Network Security](https://ytcards.demolab.com/?id=_sOgGk9sCcI&title=Replay+Attack+In+Network+Security&lang=en&timestamp=1712450428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Replay Attack In Network Security")](https://www.youtube.com/watch?v=_sOgGk9sCcI)
+[![Dns Tunneling Explained In Cyber Security](https://ytcards.demolab.com/?id=oR3aMzULgt8&title=Dns+Tunneling+Explained+In+Cyber+Security&lang=en&timestamp=1712141577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Tunneling Explained In Cyber Security")](https://www.youtube.com/watch?v=oR3aMzULgt8)
+[![Dhcp](https://ytcards.demolab.com/?id=oLsdG8M0UK0&title=Dhcp&lang=en&timestamp=1711267089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dhcp")](https://www.youtube.com/watch?v=oLsdG8M0UK0)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
