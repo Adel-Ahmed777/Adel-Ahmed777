@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How Hackers Steal Cookies](https://ytcards.demolab.com/?id=fcTDiXIWD5k&title=How+Hackers+Steal+Cookies&lang=en&timestamp=1715255548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Hackers Steal Cookies")](https://www.youtube.com/watch?v=fcTDiXIWD5k)
 [![How Data Breaches Happen](https://ytcards.demolab.com/?id=Ga58npqNLYY&title=How+Data+Breaches+Happen&lang=en&timestamp=1714822767&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Data Breaches Happen")](https://www.youtube.com/watch?v=Ga58npqNLYY)
 [![How Hackers Stay Hidden](https://ytcards.demolab.com/?id=ZTpwD15UNzM&title=How+Hackers+Stay+Hidden&lang=en&timestamp=1714476154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Hackers Stay Hidden")](https://www.youtube.com/watch?v=ZTpwD15UNzM)
 [![How Hackers Steal Your Data Without You Noticing](https://ytcards.demolab.com/?id=D6YnaQBv1eM&title=How+Hackers+Steal+Your+Data+Without+You+Noticing&lang=en&timestamp=1714219705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Hackers Steal Your Data Without You Noticing")](https://www.youtube.com/watch?v=D6YnaQBv1eM)
 [![What Is Ssl Certificate In Cyber Security](https://ytcards.demolab.com/?id=8LgZwn68794&title=What+Is+Ssl+Certificate+In+Cyber+Security&lang=en&timestamp=1714034480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Ssl Certificate In Cyber Security")](https://www.youtube.com/watch?v=8LgZwn68794)
 [![Risk Management In Cyber Security](https://ytcards.demolab.com/?id=BIlBrIrXGaU&title=Risk+Management+In+Cyber+Security&lang=en&timestamp=1713355247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Risk Management In Cyber Security")](https://www.youtube.com/watch?v=BIlBrIrXGaU)
-[![Replay Attack In Network Security](https://ytcards.demolab.com/?id=_sOgGk9sCcI&title=Replay+Attack+In+Network+Security&lang=en&timestamp=1712450428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Replay Attack In Network Security")](https://www.youtube.com/watch?v=_sOgGk9sCcI)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
