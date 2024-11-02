@@ -134,12 +134,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Dns Subdomain Takeover](https://ytcards.demolab.com/?id=Vjb-brFgUnM&title=Dns+Subdomain+Takeover&lang=en&timestamp=1730549444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Subdomain Takeover")](https://www.youtube.com/watch?v=Vjb-brFgUnM)
 [![Land Attack In Network Security](https://ytcards.demolab.com/?id=iY95hQuWJHE&title=Land+Attack+In+Network+Security&lang=en&timestamp=1730029945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Land Attack In Network Security")](https://www.youtube.com/watch?v=iY95hQuWJHE)
 [![Information Security Awareness Training](https://ytcards.demolab.com/?id=bQMDvfry7P4&title=Information+Security+Awareness+Training&lang=en&timestamp=1729593883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Information Security Awareness Training")](https://www.youtube.com/watch?v=bQMDvfry7P4)
 [![Cyber Kill Chain Explained](https://ytcards.demolab.com/?id=AzcHh5fj0cA&title=Cyber+Kill+Chain+Explained&lang=en&timestamp=1729414754&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyber Kill Chain Explained")](https://www.youtube.com/watch?v=AzcHh5fj0cA)
 [![Pyramid Of Pain Explained In Cyber Security](https://ytcards.demolab.com/?id=b4fS2FLkOWw&title=Pyramid+Of+Pain+Explained+In+Cyber+Security&lang=en&timestamp=1728795242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pyramid Of Pain Explained In Cyber Security")](https://www.youtube.com/watch?v=b4fS2FLkOWw)
 [![Supply-chain Attack](https://ytcards.demolab.com/?id=zDV9YUwO5Zk&title=Supply-chain+Attack&lang=en&timestamp=1727018204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Supply-chain Attack")](https://www.youtube.com/watch?v=zDV9YUwO5Zk)
-[![New Cyber Security Phishing Attack](https://ytcards.demolab.com/?id=_PW-4AgbyTw&title=New+Cyber+Security+Phishing+Attack&lang=en&timestamp=1724573756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New Cyber Security Phishing Attack")](https://www.youtube.com/watch?v=_PW-4AgbyTw)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
