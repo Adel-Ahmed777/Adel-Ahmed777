@@ -28,6 +28,9 @@ Whiteboard Security reserve the right to modify this Disclaimer at any time with
 <br>
 Home: Australia 🇦🇺 🙏 ❤️ <br>
 <br>
+<br>
+I acknowledge the Traditional Custodians and owners of the land on which I walk, work and live. I’d also like to pay my respects to Elders past and present. I acknowledge their continuing connection to land, waters and community.
+<br>
 Education: Graduated from Western Sydney University with a Bachelor of cyber security and behaviour (Distinction) <br>
 <br>
 Passion: Food 🍔 🥞 - Music 🎵 - Tech 👨🏻‍💻 - Movies - Gaming 🎮 🕹️ 🎥 <br>
