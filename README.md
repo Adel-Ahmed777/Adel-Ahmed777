@@ -136,12 +136,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Public Charging Stations #shorts](https://ytcards.demolab.com/?id=AJcFoaMi5YM&title=Public+Charging+Stations+%23shorts&lang=en&timestamp=1732856392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Public Charging Stations #shorts")](https://www.youtube.com/watch?v=AJcFoaMi5YM)
 [![Juice Jacking Attack](https://ytcards.demolab.com/?id=YU8czhroWJg&title=Juice+Jacking+Attack&lang=en&timestamp=1732694799&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Juice Jacking Attack")](https://www.youtube.com/watch?v=YU8czhroWJg)
 [![Network Security Threats In Computer Networks](https://ytcards.demolab.com/?id=19MiR_Z4kfM&title=Network+Security+Threats+In+Computer+Networks&lang=en&timestamp=1732335452&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Network Security Threats In Computer Networks")](https://www.youtube.com/watch?v=19MiR_Z4kfM)
 [![Iso 27001 Controls Explained](https://ytcards.demolab.com/?id=S9yduMJ2P_g&title=Iso+27001+Controls+Explained&lang=en&timestamp=1732262138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Iso 27001 Controls Explained")](https://www.youtube.com/watch?v=S9yduMJ2P_g)
 [![Authentication Methods In Cyber Security](https://ytcards.demolab.com/?id=4eJbbNRXFnY&title=Authentication+Methods+In+Cyber+Security&lang=en&timestamp=1731813490&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Authentication Methods In Cyber Security")](https://www.youtube.com/watch?v=4eJbbNRXFnY)
 [![Idor Vulnerability Explained For Beginners](https://ytcards.demolab.com/?id=uvKSR-INGXA&title=Idor+Vulnerability+Explained+For+Beginners&lang=en&timestamp=1731327038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Idor Vulnerability Explained For Beginners")](https://www.youtube.com/watch?v=uvKSR-INGXA)
-[![What Is Rdp And How Does It Work](https://ytcards.demolab.com/?id=VFG4CJL0kZk&title=What+Is+Rdp+And+How+Does+It+Work&lang=en&timestamp=1730965683&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is Rdp And How Does It Work")](https://www.youtube.com/watch?v=VFG4CJL0kZk)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
