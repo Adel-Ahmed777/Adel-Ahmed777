@@ -69,8 +69,7 @@ Your support means the world 🌐 to me. <br>
 
 -------
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=122067" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/4D3L.png" alt="Your Image Badge" />
 
 
 -------
