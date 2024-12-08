@@ -68,6 +68,12 @@ Your support means the world 🌐 to me. <br>
 
 
 -------
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=122067" style='border:none;'></iframe>
+
+
+
+-------
 ### ⚙️ Languages and Tools  
 
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg"/>
