@@ -143,12 +143,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Dns Rebinding Attack](https://ytcards.demolab.com/?id=-8vhSCXMR7w&title=Dns+Rebinding+Attack&lang=en&timestamp=1735047030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Rebinding Attack")](https://www.youtube.com/watch?v=-8vhSCXMR7w)
 [![Remote Code Execution Explained](https://ytcards.demolab.com/?id=CqtL3s-3I5U&title=Remote+Code+Execution+Explained&lang=en&timestamp=1733631423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Remote Code Execution Explained")](https://www.youtube.com/watch?v=CqtL3s-3I5U)
 [![Data Breach In Cyber Security #shorts](https://ytcards.demolab.com/?id=X-7K96Rphhg&title=Data+Breach+In+Cyber+Security+%23shorts&lang=en&timestamp=1733041821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Data Breach In Cyber Security #shorts")](https://www.youtube.com/watch?v=X-7K96Rphhg)
 [![Public Charging Stations #shorts](https://ytcards.demolab.com/?id=AJcFoaMi5YM&title=Public+Charging+Stations+%23shorts&lang=en&timestamp=1732856392&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Public Charging Stations #shorts")](https://www.youtube.com/watch?v=AJcFoaMi5YM)
 [![Juice Jacking Attack](https://ytcards.demolab.com/?id=YU8czhroWJg&title=Juice+Jacking+Attack&lang=en&timestamp=1732694799&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Juice Jacking Attack")](https://www.youtube.com/watch?v=YU8czhroWJg)
 [![Network Security Threats In Computer Networks](https://ytcards.demolab.com/?id=19MiR_Z4kfM&title=Network+Security+Threats+In+Computer+Networks&lang=en&timestamp=1732335452&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Network Security Threats In Computer Networks")](https://www.youtube.com/watch?v=19MiR_Z4kfM)
-[![Iso 27001 Controls Explained](https://ytcards.demolab.com/?id=S9yduMJ2P_g&title=Iso+27001+Controls+Explained&lang=en&timestamp=1732262138&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Iso 27001 Controls Explained")](https://www.youtube.com/watch?v=S9yduMJ2P_g)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
