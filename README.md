@@ -144,12 +144,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How Nmap Works](https://ytcards.demolab.com/?id=ZIUhPUW_1U4&title=How+Nmap+Works&lang=en&timestamp=1739854734&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Nmap Works")](https://www.youtube.com/watch?v=ZIUhPUW_1U4)
 [![Http For Beginners](https://ytcards.demolab.com/?id=4G0xbF_cUV8&title=Http+For+Beginners&lang=en&timestamp=1739687706&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Http For Beginners")](https://www.youtube.com/watch?v=4G0xbF_cUV8)
 [![Carding In Cyber Security](https://ytcards.demolab.com/?id=F6Q5zy3BSVo&title=Carding+In+Cyber+Security&lang=en&timestamp=1739617812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Carding In Cyber Security")](https://www.youtube.com/watch?v=F6Q5zy3BSVo)
 [![Honeypot Explained](https://ytcards.demolab.com/?id=6F5RYn0mB0A&title=Honeypot+Explained&lang=en&timestamp=1739106954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Honeypot Explained")](https://www.youtube.com/watch?v=6F5RYn0mB0A)
 [![Bluejacking Attack](https://ytcards.demolab.com/?id=OpdZYbxfwno&title=Bluejacking+Attack&lang=en&timestamp=1738328176&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bluejacking Attack")](https://www.youtube.com/watch?v=OpdZYbxfwno)
 [![Dns Records Tutorial](https://ytcards.demolab.com/?id=mfvnIpsRSmc&title=Dns+Records+Tutorial&lang=en&timestamp=1737449277&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Records Tutorial")](https://www.youtube.com/watch?v=mfvnIpsRSmc)
-[![Dns Rebinding Attack](https://ytcards.demolab.com/?id=-8vhSCXMR7w&title=Dns+Rebinding+Attack&lang=en&timestamp=1735047030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Rebinding Attack")](https://www.youtube.com/watch?v=-8vhSCXMR7w)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
