@@ -144,7 +144,7 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Maltego Kali Linux](https://ytcards.demolab.com/?id=SGiCrw3p1Qk&title=Maltego+Kali+Linux&lang=en&timestamp=1742725829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Maltego Kali Linux")](https://www.youtube.com/watch?v=SGiCrw3p1Qk)
+[![Maltego Explained In Kali Linux](https://ytcards.demolab.com/?id=SGiCrw3p1Qk&title=Maltego+Explained+In+Kali+Linux&lang=en&timestamp=1742725829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Maltego Explained In Kali Linux")](https://www.youtube.com/watch?v=SGiCrw3p1Qk)
 [![Burp Suite For Beginners On Kali Linux](https://ytcards.demolab.com/?id=d2hWTZtQNVs&title=Burp+Suite+For+Beginners+On+Kali+Linux&lang=en&timestamp=1742122083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Burp Suite For Beginners On Kali Linux")](https://www.youtube.com/watch?v=d2hWTZtQNVs)
 [![Cyber Attacks Explained](https://ytcards.demolab.com/?id=liHljhilg_s&title=Cyber+Attacks+Explained&lang=en&timestamp=1740742678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyber Attacks Explained")](https://www.youtube.com/watch?v=liHljhilg_s)
 [![Dns Attack Types Explained](https://ytcards.demolab.com/?id=5hOqehgeFmY&title=Dns+Attack+Types+Explained&lang=en&timestamp=1740310783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dns Attack Types Explained")](https://www.youtube.com/watch?v=5hOqehgeFmY)
