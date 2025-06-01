@@ -47,6 +47,7 @@ Your support means the world 🌐 to me. <br>
       <a href="https://github.com/Adel-Ahmed777?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adel-Ahmed777?color=236ad3&labelColor=black&style=for-the-badge&logo=person-add&label=GITHUB Followers&logoColor=white"/></a>
    </p>
+   <br>
    
  ### 👀 GitHub Profile stats  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adel-Ahmed777&style=for-the-badge&color=red" alt="Adel-Ahmed777" /> </p>
