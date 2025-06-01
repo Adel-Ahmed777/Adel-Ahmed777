@@ -145,12 +145,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Explain Dmz In Network Security](https://ytcards.demolab.com/?id=cZj2nNdpdks&title=Explain+Dmz+In+Network+Security&lang=en&timestamp=1748778779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Explain Dmz In Network Security")](https://www.youtube.com/watch?v=cZj2nNdpdks)
 [![Indirect Prompt Injection Explained For Beginners](https://ytcards.demolab.com/?id=Iih7Ln8wvPY&title=Indirect+Prompt+Injection+Explained+For+Beginners&lang=en&timestamp=1747566886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Indirect Prompt Injection Explained For Beginners")](https://www.youtube.com/watch?v=Iih7Ln8wvPY)
 [![Prompt Injection Attack Explained For Beginners](https://ytcards.demolab.com/?id=6ofXXH90--I&title=Prompt+Injection+Attack+Explained+For+Beginners&lang=en&timestamp=1745756834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Prompt Injection Attack Explained For Beginners")](https://www.youtube.com/watch?v=6ofXXH90--I)
 [![Cyberbullying Video](https://ytcards.demolab.com/?id=IVdWqXxgaWU&title=Cyberbullying+Video&lang=en&timestamp=1745151880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberbullying Video")](https://www.youtube.com/watch?v=IVdWqXxgaWU)
 [![White Box Penetration Testing Kali Linux](https://ytcards.demolab.com/?id=yw5R00svrZw&title=White+Box+Penetration+Testing+Kali+Linux&lang=en&timestamp=1743842901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "White Box Penetration Testing Kali Linux")](https://www.youtube.com/watch?v=yw5R00svrZw)
 [![Maltego Explained In Kali Linux](https://ytcards.demolab.com/?id=SGiCrw3p1Qk&title=Maltego+Explained+In+Kali+Linux&lang=en&timestamp=1742725829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Maltego Explained In Kali Linux")](https://www.youtube.com/watch?v=SGiCrw3p1Qk)
-[![Burp Suite For Beginners On Kali Linux](https://ytcards.demolab.com/?id=d2hWTZtQNVs&title=Burp+Suite+For+Beginners+On+Kali+Linux&lang=en&timestamp=1742122083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Burp Suite For Beginners On Kali Linux")](https://www.youtube.com/watch?v=d2hWTZtQNVs)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
