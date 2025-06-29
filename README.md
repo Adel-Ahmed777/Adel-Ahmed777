@@ -145,12 +145,12 @@ Your support means the world 🌐 to me. <br>
 ### ▶️ Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Bastion Host Explained](https://ytcards.demolab.com/?id=xvF4J1V09Z8&title=Bastion+Host+Explained&lang=en&timestamp=1751172334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bastion Host Explained")](https://www.youtube.com/watch?v=xvF4J1V09Z8)
 [![Data Breach Incident Response Plan In Cyber Security](https://ytcards.demolab.com/?id=mrmEwtc-FYA&title=Data+Breach+Incident+Response+Plan+In+Cyber+Security&lang=en&timestamp=1750578712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Data Breach Incident Response Plan In Cyber Security")](https://www.youtube.com/watch?v=mrmEwtc-FYA)
 [![Dmz Tutorial](https://ytcards.demolab.com/?id=cZj2nNdpdks&title=Dmz+Tutorial&lang=en&timestamp=1748778779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dmz Tutorial")](https://www.youtube.com/watch?v=cZj2nNdpdks)
 [![Indirect Prompt Injection Explained For Beginners](https://ytcards.demolab.com/?id=Iih7Ln8wvPY&title=Indirect+Prompt+Injection+Explained+For+Beginners&lang=en&timestamp=1747566886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Indirect Prompt Injection Explained For Beginners")](https://www.youtube.com/watch?v=Iih7Ln8wvPY)
 [![Prompt Injection Attack Explained For Beginners](https://ytcards.demolab.com/?id=6ofXXH90--I&title=Prompt+Injection+Attack+Explained+For+Beginners&lang=en&timestamp=1745756834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Prompt Injection Attack Explained For Beginners")](https://www.youtube.com/watch?v=6ofXXH90--I)
 [![Cyberbullying Awareness Video](https://ytcards.demolab.com/?id=IVdWqXxgaWU&title=Cyberbullying+Awareness+Video&lang=en&timestamp=1745151880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberbullying Awareness Video")](https://www.youtube.com/watch?v=IVdWqXxgaWU)
-[![White Box Penetration Testing Kali Linux](https://ytcards.demolab.com/?id=yw5R00svrZw&title=White+Box+Penetration+Testing+Kali+Linux&lang=en&timestamp=1743842901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "White Box Penetration Testing Kali Linux")](https://www.youtube.com/watch?v=yw5R00svrZw)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UC_lSWI1T2h41mku_ghPx08A?sub_confirmation=1">
