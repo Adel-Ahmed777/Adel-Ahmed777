@@ -98,6 +98,7 @@ Your support means the world 🌐 to me. <br>
 
 ### 📕 List of my IT certifications:
 
+•Microsoft Certified: Azure Fundamentals AZ900 | Jun 2025 <br>
 •Cyber Threat Management from CISCO academy skills for all platform | Dec 2023 <br>
 •Digital Forensics Essentials (DFE) from EC-Council | Nov 2023 <br>
 •Network Defense Essentials (NDE) from EC-Council | Sep 2023 <br>
